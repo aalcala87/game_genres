@@ -17,5 +17,5 @@ $(document).ready(function () {
             clickedLink.text('Show less');
         }
     }
-    $('a').click(handleClick);
+   // $('a').click(handleClick);
 });
